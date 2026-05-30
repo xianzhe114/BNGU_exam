@@ -11,7 +11,7 @@
 *   **`exam1_ws`**：存放基础考核内容。
 *   **`exam2_ws`**：通过 **ROS2 服务（Service）通信** 的方式复现考核内容。
 *   **`exam3_ws`**：存放过往学习的人脸识别项目。
-*   **`videos`**：存放用于演示的视频素材（`video1`, `video2`, `video3`）。
+*   **`videos`**：存放用于('exam1_ws','exam2_ws','exam3_ws')对应的演示的视频素材（`video1`, `video2`, `video3`）。
 
 ## 🛠️ 环境依赖
 
