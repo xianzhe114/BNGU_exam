@@ -62,7 +62,7 @@
 由于 GitHub 上传文件大小有限制，此处仅做部分代码展示。
 项目的完整压缩包（包含全部工作空间及资源文件，尤其是我录制的所有操作视频！）已上传至百度网盘，文件大小约为 **592.2M**。
 
-*   **网盘链接**：[https://pan.baidu.com/s/1A4tHsIBzz7dze91N5s6bmA](https://pan.baidu.com/s/1A4tHsIBzz7dze91N5s6bmA)
+*   **网盘链接**：[https://pan.baidu.com/s/1HbwcODfX7R8Jxv5ay5aCmA?pwd=1111)
 *   **提取码**：`1111`
 
 -- 来自百度网盘超级会员 v3 的分享
